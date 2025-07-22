@@ -1,1 +1,1 @@
-Creting a REST API using Spring Boot
+Creating a REST API using Spring Boot
