@@ -1,0 +1,7 @@
+com\anouar\runnerz\run\JdbcRunRepositoryTest.class
+com\anouar\runnerz\run\RunControllerIntTest$1.class
+com\anouar\runnerz\RunnerzApplicationTests.class
+com\anouar\runnerz\run\RunControllerIntTest.class
+com\anouar\runnerz\user\InMemoryRunRepositoryTest.class
+com\anouar\runnerz\run\RunControllerTest.class
+com\anouar\runnerz\user\UserRestClientTest.class
